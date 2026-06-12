@@ -176,7 +176,6 @@ If you find this repository useful, please consider giving it a **Star ⭐**.
 
 **Samira Haque**
 
-GitHub: :contentReference[oaicite:0]{index=0}
 
 ---
 
